@@ -1,0 +1,16 @@
+{
+  "name": "project00",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "bin":"main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Syed Maqsood Hafeez",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "^20.11.30"
+  }
+}
